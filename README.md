@@ -1,1 +1,1 @@
-A very cool product.
+Debt simiplified
